@@ -1,7 +1,7 @@
 lingshidao
 ==========
 
-mirror of 灵石岛古诗歌
+mirror of 灵石岛古诗歌，请访问 http://session.im/lingshidao/gushi/
 
 
 <html>
