@@ -1,0 +1,30 @@
+body         { margin-left: 60; margin-right: 60; margin-top: 30;
+	margin-bottom: 30; font-family: ËÎÌו; font-size: 10.5pt; color: #393939; font-weight: medium; 
+               LINE-HEIGHT: 120%; background-color: #7E92D6; background-repeat: repeat; 
+               background-attachment: scroll; position: absolute; 
+               border-style: solid; border-color: #000000;
+               background-position: 0% }
+P {
+	FONT-SIZE: 10.5pt
+}
+ TABLE {
+	FONT-SIZE: 10.5pt
+}
+ TD {
+	FONT-SIZE: 10.5pt; LETTER-SPACING: 1pt; LINE-HEIGHT: 15pt
+}
+  A:LINK { 
+         color : #393939;TEXT-DECORATION: none
+        
+}
+  A:VISITED { 
+         color : #393939;TEXT-DECORATION: none
+        
+}
+  A:HOVER { 
+         color : blue;TEXT-DECORATION: none
+        
+}
+a {text-decoration: none}
+input {border: 1px solid; font-color: #000000; background-color: #7E92D6}
+
